@@ -10,7 +10,7 @@
     </title>
 </head>
 <body class="bg-gray-200">
-    <nav class="flex   justify-between bg-white p-2 font-semibold">
+    <nav class="flex   justify-between bg-white p-3 font-semibold">
         <ul class="flex items-center">
             <li class="p-3">
                 <a href=" {{  route("home")  }} " >Home</a>
